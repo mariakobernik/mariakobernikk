@@ -1,0 +1,46 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1558192705467">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="352872091" ref="index"/>
+    <file name="________.css" crc="4052054023" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:контакты"/>
+    <file name="museutils.js" crc="340535759" ref="index:контакты"/>
+    <file name="whatinput.js" crc="86476730" ref="index:контакты"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:контакты"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:контакты"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:контакты"/>
+    <file name="require.js" crc="7928878" ref="index:контакты"/>
+    <file name="webpro.js" crc="4059564322" ref="контакты"/>
+    <file name="form_check.php" crc="4020933626" ref="контакты"/>
+    <file name="form_throttle.php" crc="4259590256" ref="контакты"/>
+    <file name="form_process.php" crc="37464564" ref="контакты"/>
+    <file name="form-u1640.php" crc="130063657" ref="контакты"/>
+  </folder>
+  <folder name="images">
+    <file name="maxresdefault.jpg" crc="239720824" ref="index:контакты">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1747-10.png" crc="3773146707" ref="index"/>
+    <file name="u180-4-a.png" crc="481607741" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:контакты"/>
+    <file name="u1457_states.png" crc="4135446000" ref="index"/>
+    <file name="u1457_states-r.png" crc="4142990498" ref="index"/>
+    <file name="u1457_states-m.png" crc="444350965" ref="index"/>
+    <file name="u250-23.png" crc="3991455989" ref="index"/>
+    <file name="coffee_pastry_chocolate_croissant_cup_grain_sugar_551903_175x225.jpg" crc="50591246" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32b984a1be83964af00a81ccb4bcfd760a3041b7.jpg" crc="4044213477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1703-10.png" crc="3773146707" ref="контакты"/>
+    <file name="u1406-4-a.png" crc="4135446000" ref="контакты"/>
+    <file name="u1411_states.png" crc="481607741" ref="контакты"/>
+    <file name="u1411_states-r.png" crc="4179698238" ref="контакты"/>
+    <file name="u1411_states-m.png" crc="3824629969" ref="контакты"/>
+  </folder>
+  <file name="index.html" crc="3911735237" seo="true" mt="1558192660646" redirect="true"/>
+  <file name="контакты.html" crc="3867777550" seo="true" mt="1558192630344" redirect="true"/>
+</manifest>
